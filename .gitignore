@@ -1,0 +1,15 @@
+bin/
+project/
+target/
+build
+.cache
+.classpath
+.project
+.settings
+.DS_Store
+*.class
+*.iml
+*.ipr
+*.iws
+.idea
+.cache-main
